@@ -1,4 +1,4 @@
-# FISA Endsem Project
+# Stock-Index-Prediction
 
 
 ## Libraries Required:
